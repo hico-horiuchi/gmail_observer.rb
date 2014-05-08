@@ -1,0 +1,8 @@
+mail:
+  account: sample@gmail.com
+  password: password
+growl:
+  appname: server_observer.rb
+  host: 127.0.0.1
+  password: password
+  port: 23053
